@@ -6,10 +6,14 @@ First, draw a chart using a CSV file.
 Use d3's ability to read in a csv file using a promise.
 Create a bar chart to display the data.
 Draw number on the bar chart to make it easier to read.
-Create a legend to help others read your chart, using the data and d3. There should be a small square for each color, along with the name of the color alongside of it.
-Note that except for the last part this follows the book closely. The final requirement (a legend) is not in the book. Craft a solution using what you know.
+Create a legend to help others read your chart, using the data and d3. There should be a 
+small square for each color, along with the name of the color alongside of it.
+Note that except for the last part this follows the book closely. The final requirement (a legend) 
+is not in the book. Craft a solution using what you know.
 
-Second, for the second SVG. Plot the data in the exact same way. Except, it will read from a JSON file, using the json command.
+Second, for the second SVG. Plot the data in the exact same way. Except, it will read from a JSON file, 
+using the json command.
 
-For those wishing to do extra, pay close attention to how much overlap there is between drawing the two diagrams. Work to minimize the amount of code to draw both of the charts. Make good use of functions and parameters.
+For those wishing to do extra, pay close attention to how much overlap there is between drawing the two 
+diagrams. Work to minimize the amount of code to draw both of the charts. Make good use of functions and parameters.
 
